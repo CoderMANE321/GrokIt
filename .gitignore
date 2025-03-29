@@ -1,2 +1,9 @@
-__init__.py
-__pycache__
+# Ignore all __pycache__ directories
+__pycache__/
+
+# Ignore all .pyc and .pyo compiled Python files
+*.pyc
+*.pyo
+
+# Ignore all __init__.py files 
+**/__init__.py
