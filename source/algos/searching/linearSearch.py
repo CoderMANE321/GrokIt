@@ -11,3 +11,15 @@ class linearSearch:
             if i == target:
                 return True
         return False
+
+
+"""
+Time Complexity -> O(n)
+Best Case O(1) -> first element returns immediate
+Worst Case O(n) -> iterating n + n for target
+Average Case O(n) -> usually checking half of array n/2 
+
+Space Complexity -> O(1)
+in place use and no new structures allocated
+
+"""
