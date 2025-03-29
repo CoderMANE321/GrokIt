@@ -10,8 +10,8 @@ Goals
 ! Smooth out weakness and identify strengths. 
 Current weakness -> Graphs, Bit manipulation, Binary Heaps, Recursion
 Current strenghts -> Trees, Linked List, Arrays, Dynamic Programming
-!Brush top level oof system design
-!Refresh computer concepts such as paradigms, OS, memeory, etc.
+!Brush top level of system design
+!Refresh computer concepts such as paradigms, OS, memory, etc.
 !Get 250 leets, current -> 161
 !Solve medium and hard with 60 minutes
 !Finish 2 codecrafter projects
