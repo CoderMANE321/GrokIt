@@ -1,0 +1,15 @@
+ do more 
+ graph problems
+ reinforce union find
+ start on segment trees
+
+ current 95 out of 150
+ Neetcode 150
+
+
+ mistakes
+ forgetting empty strcut cases
+ work on implemnetation mistakes
+ add more typing to functions  
+    ! each function shoud have variables and return typed out
+learn more about funtions like __len__ and __str__
